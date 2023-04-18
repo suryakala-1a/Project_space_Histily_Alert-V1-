@@ -1,4 +1,4 @@
-# Project Name: Attendance Tracking System using Tkinter
+# Project Name: Attendance Tracking System
 
 
 ## Project Description
